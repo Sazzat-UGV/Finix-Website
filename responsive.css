@@ -1,0 +1,68 @@
+@media(max-width:1278px){
+
+    ul.our-primary-menu li a {
+        padding: 1px 15px;
+        font-weight: 500;
+      }
+      .slider{
+        background: url(Image/main-banner2.jpg) no-repeat top center;
+        background-size: auto;
+        background-attachment: fixed;
+        }
+}
+@media(max-width:1210px){
+
+    ul.our-primary-menu li a {
+        padding: 1px 7px;
+        font-weight: 500;
+      }
+}
+@media(max-width:1094px){
+
+    ul.our-primary-menu li a {
+        padding: 1px 3px;
+        font-weight: 500;
+        font-size: 15px;
+      }
+      .slider{
+        background: url(Image/main-banner2.jpg) no-repeat top center;
+        background-size: auto;
+        background-attachment: fixed;
+        }
+}
+@media(max-width:1010px){
+
+      .header-search {
+        margin-right: 10px;
+      }
+}
+
+@media(max-width:1000px){
+
+    .btn-primary {
+        font-size: 16px;
+      }
+}
+@media(max-width:992px){
+    .cal-ret-right {
+        padding-bottom: 30px;
+        padding-top: 80px;
+        margin-top: 82px;
+      }
+      .cal-form .form-group label {
+        margin-bottom: 10px;
+        margin-top: 27px;
+      }
+      .call-to-action-bg h2 {
+        font-size: 24px;
+      }
+      .call-to-action-phn span {
+        width: 52px;
+        height: 52px;
+        line-height: 52px;
+      }
+      .call-to-action-phn a {
+        font-size: 19px;
+        margin-top: 12px;
+      }
+}
