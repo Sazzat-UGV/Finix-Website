@@ -11,8 +11,10 @@ img{
     background-color: #f9fafb;
 }
 body{
-    overflow-x: hidden;
+    height: 100%;
+    width: auto;
 }
+
 
 
 /*Begain custome style*/
@@ -470,7 +472,7 @@ background-attachment: fixed;
     top: 0;
     left: 0;
     height: 200%;
-    width: 400%;
+    width: 100%;
     color: #e73a3e;
 }
 .services-tab-item li a span i{
