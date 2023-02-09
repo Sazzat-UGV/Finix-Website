@@ -10,7 +10,9 @@ img{
 .gray-bg{
     background-color: #f9fafb;
 }
-
+body{
+    overflow-x: hidden;
+}
 
 
 /*Begain custome style*/
